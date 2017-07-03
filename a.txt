@@ -1,3 +1,2 @@
-Git is a version control system.
 fix 3
 add a new line
